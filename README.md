@@ -78,3 +78,8 @@ Method 1: Using the Entra Admin Center (most common)
 - Then submit
 
 <img width="1911" height="897" alt="Image" src="https://github.com/user-attachments/assets/69eba6b4-837a-45f7-b6d0-538fd89fd192" />
+
+<h2> How to edit users after we create an account </h2>
+<img width="1918" height="951" alt="Image" src="https://github.com/user-attachments/assets/e64b59f4-afeb-4bf2-a095-3d474b1ca3b1" />
+
+<img width="1918" height="933" alt="Image" src="https://github.com/user-attachments/assets/0ebcdd55-e1c9-485e-872c-19fe30169f5f" />
