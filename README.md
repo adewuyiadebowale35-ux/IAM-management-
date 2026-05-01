@@ -60,3 +60,14 @@ Method 1: Using the Entra Admin Center (most common)
 - We can uncheck the 'Derive from userpreincipal name' to allow you customise your 'Nick name'
 <p> - We can also uncheck 'Autogenrated password box' to allow us manually set our password </p>
 <img width="1909" height="831" alt="Image" src="https://github.com/user-attachments/assets/731404a9-9844-4888-a7c7-a86aee853cb7" />
+
+ <h2> Continuation process of creating  an account </h2>
+ <img width="1918" height="966" alt="Image" src="https://github.com/user-attachments/assets/83707597-2646-4649-b677-16a13fafef5f" />
+
+
+<p>
+<h3> You can check through all the information provided below then we can click on create  </h3>
+<img width="1449" height="916" alt="Image" src="https://github.com/user-attachments/assets/63122690-c0a9-43cb-8809-361156cfe2ad" />
+</p>
+<h2> User account created below  </h2>
+<img width="1918" height="949" alt="Image" src="https://github.com/user-attachments/assets/dc83ed21-68d0-427d-85dd-aa6e148b2286" />
