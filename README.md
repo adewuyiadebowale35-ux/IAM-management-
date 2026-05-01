@@ -19,7 +19,12 @@ A typical Entra ID user account has:
 - Permissions & roles → what the user is allowed to access
 - Group memberships → used to assign access to apps/reso
 
-  <h2>👨‍💻Data Analysis</h2>
+  <h2>🔐 What it’s used for</h2>
+- Authorization → controlling what you can access
+- Single Sign-On (SSO) → one login for multiple apps
+- Authentication → proving who you are (login)
+
+  
 
 - <b>Sales Insight </b>
     ( ([https://github.com/adewuyiadebowale35-ux/sales-insight]))
