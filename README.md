@@ -3,18 +3,21 @@
 <h2>👨‍💻What is user account in microsoft entra ID
 A user account in Microsoft Entra ID is a digital identity that represents a person (or sometimes a service) within an organization’s cloud environment:</h2>
 
-- <b> 🔑 In simple terms:
+<p> 🔑 In simple terms:
 It’s what allows someone to sign in and access resources like:
-● Microsoft 365 (Outlook, Teams, SharePoint)
-● Azure services
-● Company apps and systemsr </b>
+<b> - Microsoft 365 (Outlook, Teams, SharePoint) </b>
+<b> - Azure services</b>
+<b> - Company apps and systemsr </b>
    
 
-<h2>📺Audio projects </h2>
+<h2> What a user account includes </h2>
+A typical Entra ID user account has:
 
-- Undersatnding control pin ("C:\Users\Kasutaja\Desktop\Qsys videos Sunday\control pins .mp4")
-- Creating \uci()
-- Qsys snap shots()
+- Username (UPN) → e.g. user@company.com
+- Password / authentication methods (MFA, biometrics, etc.)
+- Profile info → name, job title, department
+- Permissions & roles → what the user is allowed to access
+- Group memberships → used to assign access to apps/reso
 
   <h2>👨‍💻Data Analysis</h2>
 
