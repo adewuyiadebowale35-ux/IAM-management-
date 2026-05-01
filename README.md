@@ -71,3 +71,10 @@ Method 1: Using the Entra Admin Center (most common)
 </p>
 <h2> User account created below  </h2>
 <img width="1918" height="949" alt="Image" src="https://github.com/user-attachments/assets/dc83ed21-68d0-427d-85dd-aa6e148b2286" />
+
+<h2> Bulk create users  </h2>
+- Go to Users → Bulk operations → Bulk create
+- Upload a CSV file with user details
+- Then submit
+
+<img width="1911" height="897" alt="Image" src="https://github.com/user-attachments/assets/69eba6b4-837a-45f7-b6d0-538fd89fd192" />
